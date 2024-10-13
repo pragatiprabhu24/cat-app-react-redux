@@ -3,7 +3,7 @@ import cat from "../asset/images/cat.gif";
 
 const HeroSection = () => {
   return (
-    <section className="text-white flex items-center min-h-screen p-4">
+    <section className="text-white flex items-center min-h-screen py-28 p-4">
       <div className="max-w-screen-xl flex flex-col md:flex-row items-center justify-between mx-auto">
         <div className="flex-1 mb-8 md:mb-0">
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-bold mb-4">
